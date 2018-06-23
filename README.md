@@ -1,2 +1,4 @@
-# codebase
-the code base of XJTLU hackathon 2018
+## 西交利物浦2018年黑客马拉松
+
+# 请每个队伍，建立自己的项目文件夹，把代码放在自己文件夹内
+
