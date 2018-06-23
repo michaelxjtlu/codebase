@@ -61,7 +61,7 @@ $git commit -m 'initial push' . #提交本地文件，initial push是提交说�
 
 * step 7 映射本地分支到远程分支
 ```
-$ git git push --set-upstream origin your_branch_name #输入你的分支名
+$ git push --set-upstream origin your_branch_name #输入你的分支名
 ```
 *此时提示你输入用户名:
 XJTLU-HACKATHON2018
