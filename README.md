@@ -64,6 +64,6 @@ $git commit -m 'initial push' . #提交本地文件，initial push是提交说�
 $ git push --set-upstream origin your_branch_name #输入你的分支名
 ```
 *此时提示你输入用户名:
-XJTLU-HACKATHON2018
+XJTLU-HACKATHON2018(大写)
 再输入密码：
 见群内信息*
